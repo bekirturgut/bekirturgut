@@ -178,23 +178,9 @@ Flutter development studies, examples and application experiments.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bekirturgut&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirturgut&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=bekirturgut&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekirturgut&theme=github-compact&hide_border=true&area=true" width="100%" />
 
 </div>
 
