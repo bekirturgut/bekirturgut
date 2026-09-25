@@ -2,9 +2,9 @@
 
 # BEKIR TURGUT
 
-### Computer Engineering · Mobile Development · Artificial Intelligence · Computer Vision · Robotics & Autonomous Systems
+### Computer Engineering · Mobile Development · Artificial Intelligence · Computer Vision · Autonomous Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Flutter+%26+Mobile+Application+Development;Artificial+Intelligence+%26+Computer+Vision;Robotics+%26+Autonomous+Systems;UAV+Software+%26+Vision-Based+Control" alt="Professional focus animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2800&amp;pause=900&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Mobile+Application+Development;Artificial+Intelligence+%26+Computer+Vision;Robotics+%26+Autonomous+Systems" alt="Focus areas: mobile development, artificial intelligence, computer vision, and autonomous systems" />
 
 </div>
 
@@ -12,191 +12,54 @@
 
 ## Professional Profile
 
-Computer Engineering student focused on building practical software systems across **mobile development, artificial intelligence, computer vision, robotics and autonomous platforms**.
+Computer Engineering student developing software across mobile applications, artificial intelligence, computer vision, and autonomous systems. My public work includes a personal finance application, an AI-assisted language learning application, and data science and machine learning projects.
 
-My work combines application development with engineering-oriented problem solving, including **Flutter/Firebase applications, machine learning pipelines, object detection and tracking, UAV software, ROS-based systems and autonomous control workflows**.
-
-I am particularly interested in developing end-to-end systems where software, perception, communication and control components operate together as a complete product.
+I am also interested in UAV software, object detection and tracking, ROS-based systems, and the integration of perception and control.
 
 ---
 
 ## Core Focus Areas
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Mobile & Application Development
-- Flutter / Dart
-- Firebase ecosystem
-- Authentication & role-based systems
-- Cloud Firestore
-- Push notifications
-- REST / API integration
-- State and local data management
-
-</td>
-
-<td width="50%" valign="top">
-
-### Artificial Intelligence & Computer Vision
-- Python
-- YOLO-based object detection
-- Object tracking
-- OpenCV
-- Machine Learning
-- Deep Learning
-- Data analysis & model evaluation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Robotics & Autonomous Systems
-- ROS Noetic
-- Gazebo
-- MAVROS
-- ArduPilot SITL
-- Autonomous navigation
-- Vision-based control
-- Telemetry integration
-
-</td>
-
-<td width="50%" valign="top">
-
-### Software Engineering
-- C / C++ / C# / Java
-- SQL
-- Git & GitHub
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Docker fundamentals
-- Linux development environments
-
-</td>
-</tr>
-</table>
+| Mobile applications | AI and data | Robotics and autonomous systems |
+| --- | --- | --- |
+| Flutter, Dart, React Native, Expo, TypeScript, Firebase | Python, TensorFlow, scikit-learn, OpenCV, YOLO | ROS, MAVROS, ArduPilot, Gazebo |
 
 ---
 
-## Technology Stack
+## Featured Projects
 
-<div align="center">
+### [Birikio](https://github.com/bekirturgut/Birikio) · Personal Finance
 
-### Languages
+An offline Flutter application for income and expense tracking, monthly budgets, savings goals, recurring transactions, and period analysis. Records are stored locally on the device. The repository includes application tests and setup instructions.
 
-<img src="https://skillicons.dev/icons?i=dart,python,c,cpp,cs,java" />
+`Flutter` `Dart` `Material 3` `Local storage`
 
-### Frameworks & Platforms
+### [LexiRole Mobile](https://github.com/bekirturgut/LexiRoleMobile) · Language Learning
 
-<img src="https://skillicons.dev/icons?i=flutter,firebase,tensorflow,opencv,ros" />
+An English vocabulary learning application with student, teacher, and admin roles. Students track learning progress; teachers manage level-based content and can generate examples with Gemini. The project uses Expo/React Native and Firebase.
 
-### Tools & Development Environment
+`TypeScript` `Expo` `React Native` `Firebase` `Gemini`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,androidstudio,vscode,mysql" />
+### [Data Science and Machine Learning](https://github.com/bekirturgut/Veri_Bilimi_ve_Makine_Ogrenmesi)
 
-</div>
+Studies and implementations covering exploratory data analysis, feature engineering, regression, classification, ensemble methods, and clustering.
 
----
+`Python` `Jupyter Notebook` `Pandas` `scikit-learn`
 
-## Selected Engineering Work
+### [TensorFlow and Deep Learning](https://github.com/bekirturgut/Tensorflow_ile_Uygulamali_Derin_Ogrenme_Kurs_Academy_Club)
 
-### Autonomous UAV & Computer Vision Systems
+Practical exercises in TensorFlow fundamentals and model development.
 
-Development work focused on UAV perception and autonomous behavior, including object detection, tracking, telemetry processing, target-oriented navigation and control logic.
-
-**Key technologies:** Python · YOLO · OpenCV · ROS · MAVROS · ArduPilot · Gazebo
-
-### AI-Assisted Mobile Applications
-
-Development of mobile systems combining Flutter-based interfaces with Firebase services, role-based architecture, notification infrastructure and AI-powered information retrieval.
-
-**Key technologies:** Flutter · Dart · Firebase · Cloud Functions · Firestore · AI APIs
-
-### Data Science & Machine Learning
-
-Applied machine learning and data analysis projects covering preprocessing, model training, regression, evaluation and experimentation workflows.
-
-**Key technologies:** Python · Pandas · NumPy · Matplotlib · scikit-learn · TensorFlow
+`Python` `TensorFlow`
 
 ---
 
-## Featured Repositories
+## Additional Repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Birikio](https://github.com/bekirturgut/Birikio)
-
-Personal finance and savings-oriented mobile application project.
-
-`Flutter` `Dart` `Mobile Development`
-
-</td>
-
-<td width="50%" valign="top">
-
-### [LexiRoleMobile](https://github.com/bekirturgut/LexiRoleMobile)
-
-Role-oriented mobile application development project.
-
-`Flutter` `Mobile` `Application Architecture`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Veri Bilimi ve Makine Öğrenmesi](https://github.com/bekirturgut/Veri_Bilimi_ve_Makine_Ogrenmesi)
-
-Data science and machine learning studies and implementations.
-
-`Python` `Machine Learning` `Data Science`
-
-</td>
-
-<td width="50%" valign="top">
-
-### [Flutter](https://github.com/bekirturgut/Flutter)
-
-Flutter development studies, examples and application experiments.
-
-`Flutter` `Dart` `Mobile`
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bekirturgut&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekirturgut&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=bekirturgut&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bekirturgut&theme=github-compact&hide_border=true&area=true" width="100%" />
-
-</div>
+- [Flutter](https://github.com/bekirturgut/Flutter) — Flutter and Dart learning projects and examples.
+- [Okul-Mobil-Programlama](https://github.com/bekirturgut/Okul-Mobil-Programlama) — mobile programming coursework and projects.
+- [Universite](https://github.com/bekirturgut/Universite) — university assignments, including automation programs in C and Python.
+- [Projelerim](https://github.com/bekirturgut/Projelerim) — a Blackjack program in C.
 
 ---
 
@@ -204,7 +67,11 @@ Flutter development studies, examples and application experiments.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake-dark.svg" alt="Contribution animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -212,8 +79,6 @@ Flutter development studies, examples and application experiments.
 
 <div align="center">
 
-### Engineering software at the intersection of mobile systems, AI, computer vision and autonomous technologies.
-
-[![GitHub](https://img.shields.io/badge/GitHub-bekirturgut-181717?style=for-the-badge&logo=github)](https://github.com/bekirturgut)
+[GitHub repositories](https://github.com/bekirturgut?tab=repositories)
 
 </div>
