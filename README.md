@@ -10,7 +10,7 @@
 
 ---
 
-## Professional Profile
+## Profile
 
 Computer Engineering student focused on building practical software systems across **mobile development, artificial intelligence, computer vision, robotics and autonomous platforms**.
 
