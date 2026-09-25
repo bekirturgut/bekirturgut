@@ -10,7 +10,7 @@
 
 ---
 
-## Professional Profile
+## Profile
 
 Computer Engineering student developing software across mobile applications, artificial intelligence, computer vision, and autonomous systems. My public work includes a personal finance application, an AI-assisted language learning application, and data science and machine learning projects.
 
@@ -75,10 +75,3 @@ Practical exercises in TensorFlow fundamentals and model development.
 
 </div>
 
----
-
-<div align="center">
-
-[GitHub repositories](https://github.com/bekirturgut?tab=repositories)
-
-</div>
