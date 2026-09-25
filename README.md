@@ -52,26 +52,4 @@ Practical exercises in TensorFlow fundamentals and model development.
 
 `Python` `TensorFlow`
 
----
-
-## Additional Repositories
-
-- [Flutter](https://github.com/bekirturgut/Flutter) — Flutter and Dart learning projects and examples.
-- [Okul-Mobil-Programlama](https://github.com/bekirturgut/Okul-Mobil-Programlama) — mobile programming coursework and projects.
-- [Universite](https://github.com/bekirturgut/Universite) — university assignments, including automation programs in C and Python.
-- [Projelerim](https://github.com/bekirturgut/Projelerim) — a Blackjack program in C.
-
----
-
-## Contribution Animation
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/bekirturgut/bekirturgut/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
