@@ -88,7 +88,7 @@ I am particularly interested in developing end-to-end systems where software, pe
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=dart,python,c,cpp,cs,java" />
+<img src="https://skillicons.dev/icons?i=dart,python,c,java" />
 
 ### Frameworks & Platforms
 
